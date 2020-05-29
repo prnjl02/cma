@@ -1,0 +1,10 @@
+.heading{
+  text-align:center;
+  padding-top: 5rem;
+  color: darkcyan;
+}
+
+.container{
+  margin:0 auto;
+  width: 30%
+}
